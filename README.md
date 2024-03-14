@@ -9,7 +9,7 @@ This project was developed using the open source Jikan API. It is a mobile appli
     - [x] Added contains of the selected Anime Items
 	- [x] Added image, title, rating score, genres, summary, number of episodes, image and title for the character list for the detail page.
 - [X] Developed page transitions using Pagination.
-- [X] Unit tests and Widget tests was made.
+- [X] Widget tests was made.
 ## Screeshots
 
 
